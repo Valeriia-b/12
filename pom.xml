@@ -65,6 +65,7 @@
                 <configuration>
                     <excludes>
                         <exclude>**/domain/*</exclude>
+                        <exclude>**/repository/*</exclude>
                     </excludes>
                 </configuration>
             </plugin>
